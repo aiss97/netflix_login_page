@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "my_card",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../../images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my_card"
+	}
+}
